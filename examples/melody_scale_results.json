@@ -1,0 +1,265 @@
+{
+  "piece": "scale",
+  "source": "scale check",
+  "video": "work/melody_scale.mp4",
+  "audio": "work/melody_scale.wav",
+  "fps": 15,
+  "width": 320,
+  "height": 180,
+  "duration_s": 14.6,
+  "frame_count": 219,
+  "simulation_hz": 240,
+  "nominal_beat_s": 1.6,
+  "nominal_bpm": 37.5,
+  "events": [
+    {
+      "strike": 1,
+      "note": "C4",
+      "beats": 1,
+      "phrase": "scale",
+      "start_time_s": 1.2,
+      "contact_confirmed": true,
+      "contact_time_s": 2.1375,
+      "normal_force_n": 2111.8344146617615,
+      "position_on_pad": [
+        0.4328653349439055,
+        -0.20577794887009435,
+        0.067
+      ],
+      "end_time_s": 2.8
+    },
+    {
+      "strike": 2,
+      "note": "D4",
+      "beats": 1,
+      "phrase": "scale",
+      "start_time_s": 2.8,
+      "contact_confirmed": true,
+      "contact_time_s": 3.7375,
+      "normal_force_n": 2288.26253366562,
+      "position_on_pad": [
+        0.4442655268503003,
+        -0.06667932759831954,
+        0.067
+      ],
+      "end_time_s": 4.4
+    },
+    {
+      "strike": 3,
+      "note": "E4",
+      "beats": 1,
+      "phrase": "scale",
+      "start_time_s": 4.4,
+      "contact_confirmed": true,
+      "contact_time_s": 5.3375,
+      "normal_force_n": 2382.390366699944,
+      "position_on_pad": [
+        0.4375161849561156,
+        0.05736300663877078,
+        0.067
+      ],
+      "end_time_s": 6.0
+    },
+    {
+      "strike": 4,
+      "note": "F4",
+      "beats": 1,
+      "phrase": "scale",
+      "start_time_s": 6.0,
+      "contact_confirmed": true,
+      "contact_time_s": 6.933333333333334,
+      "normal_force_n": 1681.2191356796022,
+      "position_on_pad": [
+        0.4292827841669489,
+        0.20533803533334122,
+        0.067
+      ],
+      "end_time_s": 7.6
+    },
+    {
+      "strike": 5,
+      "note": "G4",
+      "beats": 1,
+      "phrase": "scale",
+      "start_time_s": 7.6,
+      "contact_confirmed": true,
+      "contact_time_s": 8.529166666666667,
+      "normal_force_n": 1422.9268560080257,
+      "position_on_pad": [
+        0.5573911574686232,
+        -0.21896715312583803,
+        0.067
+      ],
+      "end_time_s": 9.2
+    },
+    {
+      "strike": 6,
+      "note": "A4",
+      "beats": 1,
+      "phrase": "scale",
+      "start_time_s": 9.2,
+      "contact_confirmed": true,
+      "contact_time_s": 10.133333333333333,
+      "normal_force_n": 1815.056959441099,
+      "position_on_pad": [
+        0.5540465453517935,
+        -0.06785330568915966,
+        0.067
+      ],
+      "end_time_s": 10.8
+    },
+    {
+      "strike": 7,
+      "note": "B4",
+      "beats": 1,
+      "phrase": "scale",
+      "start_time_s": 10.8,
+      "contact_confirmed": true,
+      "contact_time_s": 11.733333333333333,
+      "normal_force_n": 1822.6920350886812,
+      "position_on_pad": [
+        0.5538014036622119,
+        0.07013831155508177,
+        0.067
+      ],
+      "end_time_s": 12.4
+    },
+    {
+      "strike": 8,
+      "note": "C5",
+      "beats": 1,
+      "phrase": "scale",
+      "start_time_s": 12.4,
+      "contact_confirmed": true,
+      "contact_time_s": 13.329166666666667,
+      "normal_force_n": 1444.2828735296691,
+      "position_on_pad": [
+        0.5645281785752555,
+        0.21349058001490268,
+        0.067
+      ],
+      "end_time_s": 14.0
+    }
+  ],
+  "contacts": [
+    {
+      "note": "C4",
+      "time_s": 2.1375,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4328653349439055,
+        -0.20577794887009435,
+        0.067
+      ],
+      "normal_force_n": 2111.8344146617615,
+      "strike": 1,
+      "intended_note": "C4",
+      "beats": 1
+    },
+    {
+      "note": "D4",
+      "time_s": 3.7375,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4442655268503003,
+        -0.06667932759831954,
+        0.067
+      ],
+      "normal_force_n": 2288.26253366562,
+      "strike": 2,
+      "intended_note": "D4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 5.3375,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4375161849561156,
+        0.05736300663877078,
+        0.067
+      ],
+      "normal_force_n": 2382.390366699944,
+      "strike": 3,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "F4",
+      "time_s": 6.933333333333334,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4292827841669489,
+        0.20533803533334122,
+        0.067
+      ],
+      "normal_force_n": 1681.2191356796022,
+      "strike": 4,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 8.529166666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5573911574686232,
+        -0.21896715312583803,
+        0.067
+      ],
+      "normal_force_n": 1422.9268560080257,
+      "strike": 5,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "A4",
+      "time_s": 10.133333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5540465453517935,
+        -0.06785330568915966,
+        0.067
+      ],
+      "normal_force_n": 1815.056959441099,
+      "strike": 6,
+      "intended_note": "A4",
+      "beats": 1
+    },
+    {
+      "note": "B4",
+      "time_s": 11.733333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5538014036622119,
+        0.07013831155508177,
+        0.067
+      ],
+      "normal_force_n": 1822.6920350886812,
+      "strike": 7,
+      "intended_note": "B4",
+      "beats": 1
+    },
+    {
+      "note": "C5",
+      "time_s": 13.329166666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5645281785752555,
+        0.21349058001490268,
+        0.067
+      ],
+      "normal_force_n": 1444.2828735296691,
+      "strike": 8,
+      "intended_note": "C5",
+      "beats": 1
+    }
+  ],
+  "successful_strikes": 8,
+  "total_strikes": 8,
+  "notes": [
+    "Sound is synthesized from actual force-bearing contact onsets, including unintended pads.",
+    "Pad glow is a color change; audio is not a physical impact sound.",
+    "Beat timing is nominal; actual contact onsets can differ due to robot movement."
+  ]
+}

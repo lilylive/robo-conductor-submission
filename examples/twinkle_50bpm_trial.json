@@ -1,0 +1,1285 @@
+{
+  "piece": "twinkle",
+  "source": "hand-authored traditional melody",
+  "video": "work/twinkle_50bpm_trial.mp4",
+  "audio": "work/twinkle_50bpm_trial.wav",
+  "fps": 30,
+  "width": 320,
+  "height": 180,
+  "duration_s": 59.4,
+  "frame_count": 1782,
+  "simulation_hz": 240,
+  "nominal_beat_s": 1.2,
+  "nominal_bpm": 50.0,
+  "events": [
+    {
+      "strike": 1,
+      "note": "C4",
+      "beats": 1,
+      "phrase": 1,
+      "start_time_s": 1.2,
+      "contact_confirmed": true,
+      "contact_time_s": 1.9333333333333333,
+      "normal_force_n": 2564.124765450414,
+      "position_on_pad": [
+        0.4335572420373264,
+        -0.2055596205085375,
+        0.067
+      ],
+      "end_time_s": 2.4
+    },
+    {
+      "strike": 2,
+      "note": "C4",
+      "beats": 1,
+      "phrase": 1,
+      "start_time_s": 2.4,
+      "contact_confirmed": true,
+      "contact_time_s": 3.129166666666667,
+      "normal_force_n": 1801.8823816701108,
+      "position_on_pad": [
+        0.43456878281438405,
+        -0.20639905708588868,
+        0.067
+      ],
+      "end_time_s": 3.6
+    },
+    {
+      "strike": 3,
+      "note": "G4",
+      "beats": 1,
+      "phrase": 1,
+      "start_time_s": 3.6,
+      "contact_confirmed": true,
+      "contact_time_s": 4.325,
+      "normal_force_n": 1443.4185031637924,
+      "position_on_pad": [
+        0.5566037691022554,
+        -0.2189210550684557,
+        0.067
+      ],
+      "end_time_s": 4.8
+    },
+    {
+      "strike": 4,
+      "note": "G4",
+      "beats": 1,
+      "phrase": 1,
+      "start_time_s": 4.8,
+      "contact_confirmed": true,
+      "contact_time_s": 5.525,
+      "normal_force_n": 1492.5045028546556,
+      "position_on_pad": [
+        0.5580777392191401,
+        -0.2187394982627324,
+        0.067
+      ],
+      "end_time_s": 6.0
+    },
+    {
+      "strike": 5,
+      "note": "A4",
+      "beats": 1,
+      "phrase": 1,
+      "start_time_s": 6.0,
+      "contact_confirmed": true,
+      "contact_time_s": 6.729166666666667,
+      "normal_force_n": 2138.0279695426957,
+      "position_on_pad": [
+        0.5521180223839257,
+        -0.07447093795507682,
+        0.067
+      ],
+      "end_time_s": 7.2
+    },
+    {
+      "strike": 6,
+      "note": "A4",
+      "beats": 1,
+      "phrase": 1,
+      "start_time_s": 7.2,
+      "contact_confirmed": true,
+      "contact_time_s": 7.929166666666666,
+      "normal_force_n": 2140.0340825976177,
+      "position_on_pad": [
+        0.5523332744409492,
+        -0.07358483257725479,
+        0.067
+      ],
+      "end_time_s": 8.4
+    },
+    {
+      "strike": 7,
+      "note": "G4",
+      "beats": 2,
+      "phrase": 1,
+      "start_time_s": 8.4,
+      "contact_confirmed": true,
+      "contact_time_s": 9.125,
+      "normal_force_n": 1549.127183037022,
+      "position_on_pad": [
+        0.5588098617252074,
+        -0.2176608976006931,
+        0.067
+      ],
+      "end_time_s": 10.8
+    },
+    {
+      "strike": 8,
+      "note": "F4",
+      "beats": 1,
+      "phrase": 2,
+      "start_time_s": 10.8,
+      "contact_confirmed": true,
+      "contact_time_s": 11.529166666666667,
+      "normal_force_n": 2562.782301402552,
+      "position_on_pad": [
+        0.42546036192446535,
+        0.20324922368592951,
+        0.067
+      ],
+      "end_time_s": 12.0
+    },
+    {
+      "strike": 9,
+      "note": "F4",
+      "beats": 1,
+      "phrase": 2,
+      "start_time_s": 12.0,
+      "contact_confirmed": true,
+      "contact_time_s": 12.729166666666666,
+      "normal_force_n": 2448.995447993267,
+      "position_on_pad": [
+        0.42538286703167716,
+        0.20528024218310867,
+        0.067
+      ],
+      "end_time_s": 13.2
+    },
+    {
+      "strike": 10,
+      "note": "E4",
+      "beats": 1,
+      "phrase": 2,
+      "start_time_s": 13.2,
+      "contact_confirmed": true,
+      "contact_time_s": 13.933333333333334,
+      "normal_force_n": 2738.7197567920184,
+      "position_on_pad": [
+        0.4403368067023235,
+        0.058338833240620794,
+        0.067
+      ],
+      "end_time_s": 14.4
+    },
+    {
+      "strike": 11,
+      "note": "E4",
+      "beats": 1,
+      "phrase": 2,
+      "start_time_s": 14.4,
+      "contact_confirmed": true,
+      "contact_time_s": 15.133333333333333,
+      "normal_force_n": 2719.5181495262204,
+      "position_on_pad": [
+        0.44065834137042986,
+        0.05705083350993362,
+        0.067
+      ],
+      "end_time_s": 15.6
+    },
+    {
+      "strike": 12,
+      "note": "D4",
+      "beats": 1,
+      "phrase": 2,
+      "start_time_s": 15.6,
+      "contact_confirmed": true,
+      "contact_time_s": 16.333333333333332,
+      "normal_force_n": 2742.200225402796,
+      "position_on_pad": [
+        0.4379488103092559,
+        -0.053479231191298146,
+        0.06699999999998958
+      ],
+      "end_time_s": 16.8
+    },
+    {
+      "strike": 13,
+      "note": "D4",
+      "beats": 1,
+      "phrase": 2,
+      "start_time_s": 16.8,
+      "contact_confirmed": true,
+      "contact_time_s": 17.533333333333335,
+      "normal_force_n": 2630.640142838176,
+      "position_on_pad": [
+        0.44737873795462496,
+        -0.06715576644189211,
+        0.067
+      ],
+      "end_time_s": 18.0
+    },
+    {
+      "strike": 14,
+      "note": "C4",
+      "beats": 2,
+      "phrase": 2,
+      "start_time_s": 18.0,
+      "contact_confirmed": true,
+      "contact_time_s": 18.729166666666668,
+      "normal_force_n": 1890.970192662763,
+      "position_on_pad": [
+        0.4311315867535023,
+        -0.20426330845483764,
+        0.067
+      ],
+      "end_time_s": 20.4
+    },
+    {
+      "strike": 15,
+      "note": "G4",
+      "beats": 1,
+      "phrase": 3,
+      "start_time_s": 20.4,
+      "contact_confirmed": true,
+      "contact_time_s": 21.125,
+      "normal_force_n": 1709.2467858765624,
+      "position_on_pad": [
+        0.5590065271512199,
+        -0.22118849059019127,
+        0.067
+      ],
+      "end_time_s": 21.6
+    },
+    {
+      "strike": 16,
+      "note": "G4",
+      "beats": 1,
+      "phrase": 3,
+      "start_time_s": 21.6,
+      "contact_confirmed": true,
+      "contact_time_s": 22.325,
+      "normal_force_n": 1781.1182901662348,
+      "position_on_pad": [
+        0.5604390409875927,
+        -0.2209358645017185,
+        0.067
+      ],
+      "end_time_s": 22.8
+    },
+    {
+      "strike": 17,
+      "note": "F4",
+      "beats": 1,
+      "phrase": 3,
+      "start_time_s": 22.8,
+      "contact_confirmed": true,
+      "contact_time_s": 23.529166666666665,
+      "normal_force_n": 2485.708122790939,
+      "position_on_pad": [
+        0.4285061695018647,
+        0.20345934847999494,
+        0.067
+      ],
+      "end_time_s": 24.0
+    },
+    {
+      "strike": 18,
+      "note": "F4",
+      "beats": 1,
+      "phrase": 3,
+      "start_time_s": 24.0,
+      "contact_confirmed": true,
+      "contact_time_s": 24.729166666666668,
+      "normal_force_n": 2389.323176625912,
+      "position_on_pad": [
+        0.4157159992780894,
+        0.20500947992553414,
+        0.067
+      ],
+      "end_time_s": 25.2
+    },
+    {
+      "strike": 19,
+      "note": "E4",
+      "beats": 1,
+      "phrase": 3,
+      "start_time_s": 25.2,
+      "contact_confirmed": true,
+      "contact_time_s": 25.933333333333334,
+      "normal_force_n": 2410.876458776354,
+      "position_on_pad": [
+        0.43544551700136486,
+        0.05216247765380614,
+        0.067
+      ],
+      "end_time_s": 26.4
+    },
+    {
+      "strike": 20,
+      "note": "E4",
+      "beats": 1,
+      "phrase": 3,
+      "start_time_s": 26.4,
+      "contact_confirmed": true,
+      "contact_time_s": 27.133333333333333,
+      "normal_force_n": 2252.3450720186606,
+      "position_on_pad": [
+        0.44308973822658854,
+        0.05706192569394094,
+        0.067
+      ],
+      "end_time_s": 27.6
+    },
+    {
+      "strike": 21,
+      "note": "D4",
+      "beats": 2,
+      "phrase": 3,
+      "start_time_s": 27.6,
+      "contact_confirmed": true,
+      "contact_time_s": 28.333333333333332,
+      "normal_force_n": 2723.647254059844,
+      "position_on_pad": [
+        0.4389375413623172,
+        -0.05357724453616083,
+        0.067
+      ],
+      "end_time_s": 30.0
+    },
+    {
+      "strike": 22,
+      "note": "G4",
+      "beats": 1,
+      "phrase": 4,
+      "start_time_s": 30.0,
+      "contact_confirmed": true,
+      "contact_time_s": 30.725,
+      "normal_force_n": 1706.5575436204015,
+      "position_on_pad": [
+        0.5586613646330324,
+        -0.22151837332087218,
+        0.067
+      ],
+      "end_time_s": 31.2
+    },
+    {
+      "strike": 23,
+      "note": "G4",
+      "beats": 1,
+      "phrase": 4,
+      "start_time_s": 31.2,
+      "contact_confirmed": true,
+      "contact_time_s": 31.925,
+      "normal_force_n": 1792.656570213481,
+      "position_on_pad": [
+        0.5600994680763567,
+        -0.22224699918096014,
+        0.067
+      ],
+      "end_time_s": 32.4
+    },
+    {
+      "strike": 24,
+      "note": "F4",
+      "beats": 1,
+      "phrase": 4,
+      "start_time_s": 32.4,
+      "contact_confirmed": true,
+      "contact_time_s": 33.12916666666667,
+      "normal_force_n": 2205.4543463371465,
+      "position_on_pad": [
+        0.4291214169262259,
+        0.2024006529681167,
+        0.067
+      ],
+      "end_time_s": 33.6
+    },
+    {
+      "strike": 25,
+      "note": "F4",
+      "beats": 1,
+      "phrase": 4,
+      "start_time_s": 33.6,
+      "contact_confirmed": true,
+      "contact_time_s": 34.329166666666666,
+      "normal_force_n": 2188.540849105834,
+      "position_on_pad": [
+        0.4163430676014818,
+        0.2040386962261862,
+        0.067
+      ],
+      "end_time_s": 34.8
+    },
+    {
+      "strike": 26,
+      "note": "E4",
+      "beats": 1,
+      "phrase": 4,
+      "start_time_s": 34.8,
+      "contact_confirmed": true,
+      "contact_time_s": 35.53333333333333,
+      "normal_force_n": 2084.5297607901043,
+      "position_on_pad": [
+        0.443715457149806,
+        0.057920341512672696,
+        0.067
+      ],
+      "end_time_s": 36.0
+    },
+    {
+      "strike": 27,
+      "note": "E4",
+      "beats": 1,
+      "phrase": 4,
+      "start_time_s": 36.0,
+      "contact_confirmed": true,
+      "contact_time_s": 36.733333333333334,
+      "normal_force_n": 2016.5436844222538,
+      "position_on_pad": [
+        0.4435191334427131,
+        0.05653617713264586,
+        0.067
+      ],
+      "end_time_s": 37.2
+    },
+    {
+      "strike": 28,
+      "note": "D4",
+      "beats": 2,
+      "phrase": 4,
+      "start_time_s": 37.2,
+      "contact_confirmed": true,
+      "contact_time_s": 37.93333333333333,
+      "normal_force_n": 2746.3900344990043,
+      "position_on_pad": [
+        0.4385200719328861,
+        -0.05401359956699639,
+        0.067
+      ],
+      "end_time_s": 39.6
+    },
+    {
+      "strike": 29,
+      "note": "C4",
+      "beats": 1,
+      "phrase": 5,
+      "start_time_s": 39.6,
+      "contact_confirmed": true,
+      "contact_time_s": 40.329166666666666,
+      "normal_force_n": 2176.752552670314,
+      "position_on_pad": [
+        0.4305887222073191,
+        -0.20556510512494222,
+        0.067
+      ],
+      "end_time_s": 40.8
+    },
+    {
+      "strike": 30,
+      "note": "C4",
+      "beats": 1,
+      "phrase": 5,
+      "start_time_s": 40.8,
+      "contact_confirmed": true,
+      "contact_time_s": 41.52916666666667,
+      "normal_force_n": 2145.6270840020557,
+      "position_on_pad": [
+        0.4179193444995486,
+        -0.2034344642325017,
+        0.067
+      ],
+      "end_time_s": 42.0
+    },
+    {
+      "strike": 31,
+      "note": "G4",
+      "beats": 1,
+      "phrase": 5,
+      "start_time_s": 42.0,
+      "contact_confirmed": true,
+      "contact_time_s": 42.725,
+      "normal_force_n": 1796.8576816083016,
+      "position_on_pad": [
+        0.5594082174451005,
+        -0.2220047830509475,
+        0.067
+      ],
+      "end_time_s": 43.2
+    },
+    {
+      "strike": 32,
+      "note": "G4",
+      "beats": 1,
+      "phrase": 5,
+      "start_time_s": 43.2,
+      "contact_confirmed": true,
+      "contact_time_s": 43.925,
+      "normal_force_n": 1831.990819794062,
+      "position_on_pad": [
+        0.5608271158695382,
+        -0.22173045131008315,
+        0.067
+      ],
+      "end_time_s": 44.4
+    },
+    {
+      "strike": 33,
+      "note": "A4",
+      "beats": 1,
+      "phrase": 5,
+      "start_time_s": 44.4,
+      "contact_confirmed": true,
+      "contact_time_s": 45.12916666666667,
+      "normal_force_n": 2146.9150076171854,
+      "position_on_pad": [
+        0.556684826446091,
+        -0.06864304482224279,
+        0.067
+      ],
+      "end_time_s": 45.6
+    },
+    {
+      "strike": 34,
+      "note": "A4",
+      "beats": 1,
+      "phrase": 5,
+      "start_time_s": 45.6,
+      "contact_confirmed": true,
+      "contact_time_s": 46.329166666666666,
+      "normal_force_n": 2147.7059075418656,
+      "position_on_pad": [
+        0.5568446337146516,
+        -0.0675548005425582,
+        0.067
+      ],
+      "end_time_s": 46.8
+    },
+    {
+      "strike": 35,
+      "note": "G4",
+      "beats": 2,
+      "phrase": 5,
+      "start_time_s": 46.8,
+      "contact_confirmed": true,
+      "contact_time_s": 47.525,
+      "normal_force_n": 1853.7725124372018,
+      "position_on_pad": [
+        0.5615009718078683,
+        -0.22016025117479432,
+        0.067
+      ],
+      "end_time_s": 49.2
+    },
+    {
+      "strike": 36,
+      "note": "F4",
+      "beats": 1,
+      "phrase": 6,
+      "start_time_s": 49.2,
+      "contact_confirmed": true,
+      "contact_time_s": 49.92916666666667,
+      "normal_force_n": 2596.089456441295,
+      "position_on_pad": [
+        0.4170911198120959,
+        0.20350984817194723,
+        0.067
+      ],
+      "end_time_s": 50.4
+    },
+    {
+      "strike": 37,
+      "note": "F4",
+      "beats": 1,
+      "phrase": 6,
+      "start_time_s": 50.4,
+      "contact_confirmed": true,
+      "contact_time_s": 51.12916666666667,
+      "normal_force_n": 2547.476058240741,
+      "position_on_pad": [
+        0.41683698654461704,
+        0.20547361915005138,
+        0.067
+      ],
+      "end_time_s": 51.6
+    },
+    {
+      "strike": 38,
+      "note": "E4",
+      "beats": 1,
+      "phrase": 6,
+      "start_time_s": 51.6,
+      "contact_confirmed": true,
+      "contact_time_s": 52.333333333333336,
+      "normal_force_n": 2264.3065556784086,
+      "position_on_pad": [
+        0.4273103101321127,
+        0.04890606784325326,
+        0.067
+      ],
+      "end_time_s": 52.8
+    },
+    {
+      "strike": 39,
+      "note": "E4",
+      "beats": 1,
+      "phrase": 6,
+      "start_time_s": 52.8,
+      "contact_confirmed": true,
+      "contact_time_s": 53.53333333333333,
+      "normal_force_n": 2111.4386855710504,
+      "position_on_pad": [
+        0.4363327075922086,
+        0.05100811278676539,
+        0.067
+      ],
+      "end_time_s": 54.0
+    },
+    {
+      "strike": 40,
+      "note": "D4",
+      "beats": 1,
+      "phrase": 6,
+      "start_time_s": 54.0,
+      "contact_confirmed": true,
+      "contact_time_s": 54.733333333333334,
+      "normal_force_n": 2580.312725263521,
+      "position_on_pad": [
+        0.43947739692588655,
+        -0.05352987435362385,
+        0.067
+      ],
+      "end_time_s": 55.2
+    },
+    {
+      "strike": 41,
+      "note": "D4",
+      "beats": 1,
+      "phrase": 6,
+      "start_time_s": 55.2,
+      "contact_confirmed": true,
+      "contact_time_s": 55.93333333333333,
+      "normal_force_n": 2531.2344232723144,
+      "position_on_pad": [
+        0.43934060719717094,
+        -0.054097602125761035,
+        0.067
+      ],
+      "end_time_s": 56.4
+    },
+    {
+      "strike": 42,
+      "note": "C4",
+      "beats": 2,
+      "phrase": 6,
+      "start_time_s": 56.4,
+      "contact_confirmed": true,
+      "contact_time_s": 57.12916666666667,
+      "normal_force_n": 2135.0769931541718,
+      "position_on_pad": [
+        0.4183833724305102,
+        -0.20253061126315075,
+        0.067
+      ],
+      "end_time_s": 58.8
+    }
+  ],
+  "contacts": [
+    {
+      "note": "C4",
+      "time_s": 1.9333333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4335572420373264,
+        -0.2055596205085375,
+        0.067
+      ],
+      "normal_force_n": 2564.124765450414,
+      "strike": 1,
+      "intended_note": "C4",
+      "beats": 1
+    },
+    {
+      "note": "C4",
+      "time_s": 3.129166666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.43456878281438405,
+        -0.20639905708588868,
+        0.067
+      ],
+      "normal_force_n": 1801.8823816701108,
+      "strike": 2,
+      "intended_note": "C4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 4.325,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5566037691022554,
+        -0.2189210550684557,
+        0.067
+      ],
+      "normal_force_n": 1443.4185031637924,
+      "strike": 3,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 5.525,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5580777392191401,
+        -0.2187394982627324,
+        0.067
+      ],
+      "normal_force_n": 1492.5045028546556,
+      "strike": 4,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "A4",
+      "time_s": 6.729166666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5521180223839257,
+        -0.07447093795507682,
+        0.067
+      ],
+      "normal_force_n": 2138.0279695426957,
+      "strike": 5,
+      "intended_note": "A4",
+      "beats": 1
+    },
+    {
+      "note": "A4",
+      "time_s": 7.929166666666666,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5523332744409492,
+        -0.07358483257725479,
+        0.067
+      ],
+      "normal_force_n": 2140.0340825976177,
+      "strike": 6,
+      "intended_note": "A4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 9.125,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5588098617252074,
+        -0.2176608976006931,
+        0.067
+      ],
+      "normal_force_n": 1549.127183037022,
+      "strike": 7,
+      "intended_note": "G4",
+      "beats": 2
+    },
+    {
+      "note": "F4",
+      "time_s": 11.529166666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.42546036192446535,
+        0.20324922368592951,
+        0.067
+      ],
+      "normal_force_n": 2562.782301402552,
+      "strike": 8,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "F4",
+      "time_s": 12.729166666666666,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.42538286703167716,
+        0.20528024218310867,
+        0.067
+      ],
+      "normal_force_n": 2448.995447993267,
+      "strike": 9,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 13.933333333333334,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4403368067023235,
+        0.058338833240620794,
+        0.067
+      ],
+      "normal_force_n": 2738.7197567920184,
+      "strike": 10,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 15.133333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.44065834137042986,
+        0.05705083350993362,
+        0.067
+      ],
+      "normal_force_n": 2719.5181495262204,
+      "strike": 11,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "D4",
+      "time_s": 16.333333333333332,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4379488103092559,
+        -0.053479231191298146,
+        0.06699999999998958
+      ],
+      "normal_force_n": 2742.200225402796,
+      "strike": 12,
+      "intended_note": "D4",
+      "beats": 1
+    },
+    {
+      "note": "D4",
+      "time_s": 17.533333333333335,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.44737873795462496,
+        -0.06715576644189211,
+        0.067
+      ],
+      "normal_force_n": 2630.640142838176,
+      "strike": 13,
+      "intended_note": "D4",
+      "beats": 1
+    },
+    {
+      "note": "C4",
+      "time_s": 18.729166666666668,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4311315867535023,
+        -0.20426330845483764,
+        0.067
+      ],
+      "normal_force_n": 1890.970192662763,
+      "strike": 14,
+      "intended_note": "C4",
+      "beats": 2
+    },
+    {
+      "note": "G4",
+      "time_s": 21.125,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5590065271512199,
+        -0.22118849059019127,
+        0.067
+      ],
+      "normal_force_n": 1709.2467858765624,
+      "strike": 15,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 22.325,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5604390409875927,
+        -0.2209358645017185,
+        0.067
+      ],
+      "normal_force_n": 1781.1182901662348,
+      "strike": 16,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "F4",
+      "time_s": 23.529166666666665,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4285061695018647,
+        0.20345934847999494,
+        0.067
+      ],
+      "normal_force_n": 2485.708122790939,
+      "strike": 17,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "F4",
+      "time_s": 24.729166666666668,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4157159992780894,
+        0.20500947992553414,
+        0.067
+      ],
+      "normal_force_n": 2389.323176625912,
+      "strike": 18,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 25.933333333333334,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.43544551700136486,
+        0.05216247765380614,
+        0.067
+      ],
+      "normal_force_n": 2410.876458776354,
+      "strike": 19,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 27.133333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.44308973822658854,
+        0.05706192569394094,
+        0.067
+      ],
+      "normal_force_n": 2252.3450720186606,
+      "strike": 20,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "D4",
+      "time_s": 28.333333333333332,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4389375413623172,
+        -0.05357724453616083,
+        0.067
+      ],
+      "normal_force_n": 2723.647254059844,
+      "strike": 21,
+      "intended_note": "D4",
+      "beats": 2
+    },
+    {
+      "note": "G4",
+      "time_s": 30.725,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5586613646330324,
+        -0.22151837332087218,
+        0.067
+      ],
+      "normal_force_n": 1706.5575436204015,
+      "strike": 22,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 31.925,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5600994680763567,
+        -0.22224699918096014,
+        0.067
+      ],
+      "normal_force_n": 1792.656570213481,
+      "strike": 23,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "F4",
+      "time_s": 33.12916666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4291214169262259,
+        0.2024006529681167,
+        0.067
+      ],
+      "normal_force_n": 2205.4543463371465,
+      "strike": 24,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "F4",
+      "time_s": 34.329166666666666,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4163430676014818,
+        0.2040386962261862,
+        0.067
+      ],
+      "normal_force_n": 2188.540849105834,
+      "strike": 25,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 35.53333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.443715457149806,
+        0.057920341512672696,
+        0.067
+      ],
+      "normal_force_n": 2084.5297607901043,
+      "strike": 26,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 36.733333333333334,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4435191334427131,
+        0.05653617713264586,
+        0.067
+      ],
+      "normal_force_n": 2016.5436844222538,
+      "strike": 27,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "D4",
+      "time_s": 37.93333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4385200719328861,
+        -0.05401359956699639,
+        0.067
+      ],
+      "normal_force_n": 2746.3900344990043,
+      "strike": 28,
+      "intended_note": "D4",
+      "beats": 2
+    },
+    {
+      "note": "C4",
+      "time_s": 40.329166666666666,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4305887222073191,
+        -0.20556510512494222,
+        0.067
+      ],
+      "normal_force_n": 2176.752552670314,
+      "strike": 29,
+      "intended_note": "C4",
+      "beats": 1
+    },
+    {
+      "note": "C4",
+      "time_s": 41.52916666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4179193444995486,
+        -0.2034344642325017,
+        0.067
+      ],
+      "normal_force_n": 2145.6270840020557,
+      "strike": 30,
+      "intended_note": "C4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 42.725,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5594082174451005,
+        -0.2220047830509475,
+        0.067
+      ],
+      "normal_force_n": 1796.8576816083016,
+      "strike": 31,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 43.925,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5608271158695382,
+        -0.22173045131008315,
+        0.067
+      ],
+      "normal_force_n": 1831.990819794062,
+      "strike": 32,
+      "intended_note": "G4",
+      "beats": 1
+    },
+    {
+      "note": "A4",
+      "time_s": 45.12916666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.556684826446091,
+        -0.06864304482224279,
+        0.067
+      ],
+      "normal_force_n": 2146.9150076171854,
+      "strike": 33,
+      "intended_note": "A4",
+      "beats": 1
+    },
+    {
+      "note": "A4",
+      "time_s": 46.329166666666666,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5568446337146516,
+        -0.0675548005425582,
+        0.067
+      ],
+      "normal_force_n": 2147.7059075418656,
+      "strike": 34,
+      "intended_note": "A4",
+      "beats": 1
+    },
+    {
+      "note": "G4",
+      "time_s": 47.525,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.5615009718078683,
+        -0.22016025117479432,
+        0.067
+      ],
+      "normal_force_n": 1853.7725124372018,
+      "strike": 35,
+      "intended_note": "G4",
+      "beats": 2
+    },
+    {
+      "note": "F4",
+      "time_s": 49.92916666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4170911198120959,
+        0.20350984817194723,
+        0.067
+      ],
+      "normal_force_n": 2596.089456441295,
+      "strike": 36,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "F4",
+      "time_s": 51.12916666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.41683698654461704,
+        0.20547361915005138,
+        0.067
+      ],
+      "normal_force_n": 2547.476058240741,
+      "strike": 37,
+      "intended_note": "F4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 52.333333333333336,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4273103101321127,
+        0.04890606784325326,
+        0.067
+      ],
+      "normal_force_n": 2264.3065556784086,
+      "strike": 38,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "E4",
+      "time_s": 53.53333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4363327075922086,
+        0.05100811278676539,
+        0.067
+      ],
+      "normal_force_n": 2111.4386855710504,
+      "strike": 39,
+      "intended_note": "E4",
+      "beats": 1
+    },
+    {
+      "note": "D4",
+      "time_s": 54.733333333333334,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.43947739692588655,
+        -0.05352987435362385,
+        0.067
+      ],
+      "normal_force_n": 2580.312725263521,
+      "strike": 40,
+      "intended_note": "D4",
+      "beats": 1
+    },
+    {
+      "note": "D4",
+      "time_s": 55.93333333333333,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.43934060719717094,
+        -0.054097602125761035,
+        0.067
+      ],
+      "normal_force_n": 2531.2344232723144,
+      "strike": 41,
+      "intended_note": "D4",
+      "beats": 1
+    },
+    {
+      "note": "C4",
+      "time_s": 57.12916666666667,
+      "robot_link": 6,
+      "position_on_pad": [
+        0.4183833724305102,
+        -0.20253061126315075,
+        0.067
+      ],
+      "normal_force_n": 2135.0769931541718,
+      "strike": 42,
+      "intended_note": "C4",
+      "beats": 2
+    }
+  ],
+  "successful_strikes": 42,
+  "total_strikes": 42,
+  "notes": [
+    "Sound is synthesized from actual force-bearing contact onsets, including unintended pads.",
+    "Pad glow is a color change; audio is not a physical impact sound.",
+    "Beat timing is nominal; actual contact onsets can differ due to robot movement."
+  ]
+}

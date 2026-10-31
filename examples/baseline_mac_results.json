@@ -1,0 +1,71 @@
+{
+  "video": "work/baseline-mac.mp4",
+  "duration_s": 6.96,
+  "events": [
+    {
+      "strike": 1,
+      "color": "red",
+      "target_xyz": [
+        0.48,
+        -0.24,
+        0.155
+      ],
+      "actual_xyz": [
+        0.4801380932331085,
+        -0.23993097245693207,
+        0.16135171055793762
+      ],
+      "position_error_m": 0.0064,
+      "video_time_s": 1.96
+    },
+    {
+      "strike": 2,
+      "color": "blue",
+      "target_xyz": [
+        0.54,
+        0.0,
+        0.155
+      ],
+      "actual_xyz": [
+        0.5401418805122375,
+        -0.00012576697918120772,
+        0.16113844513893127
+      ],
+      "position_error_m": 0.0061,
+      "video_time_s": 3.25
+    },
+    {
+      "strike": 3,
+      "color": "green",
+      "target_xyz": [
+        0.48,
+        0.24,
+        0.155
+      ],
+      "actual_xyz": [
+        0.48020583391189575,
+        0.2399182915687561,
+        0.16114230453968048
+      ],
+      "position_error_m": 0.0061,
+      "video_time_s": 4.54
+    },
+    {
+      "strike": 4,
+      "color": "red",
+      "target_xyz": [
+        0.48,
+        -0.24,
+        0.155
+      ],
+      "actual_xyz": [
+        0.48018699884414673,
+        -0.23980093002319336,
+        0.16114206612110138
+      ],
+      "position_error_m": 0.0061,
+      "video_time_s": 5.83
+    }
+  ],
+  "note": "This demo uses end-effector proximity to a pad, not verified contact force."
+}

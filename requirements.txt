@@ -1,0 +1,8 @@
+# The two distributions provide the same `pybullet` module; install only one.
+pybullet-arm64==3.2.8; sys_platform == 'darwin' and platform_machine == 'arm64'
+pybullet==3.2.7; sys_platform != 'darwin' or platform_machine != 'arm64'
+numpy>=1.24,<3
+imageio>=2.31,<3
+imageio-ffmpeg>=0.4,<1
+# Needed only by the original AI planning function in robo_conductor.py.
+openai>=1,<3

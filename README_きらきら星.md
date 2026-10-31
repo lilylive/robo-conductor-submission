@@ -19,12 +19,6 @@ python melody.py --piece twinkle --width 640 --height 360 --fps 30 \
 
 Google Colabでは、`notebooks/ROBO_CONDUCTOR_きらきら星_Colab.ipynb` をアップロードして上から実行してください。ノートブックはコードを内包し、通常の曲の演奏と保存済みAI計画の再生にはAPIキーは必要ありません。新規にAI計画を作る場合はAPIキーと通信が必要で、料金が発生する場合があります。Colab本番での実行は未確認です。
 
-## 音と接触の仕組み
 
-工夫した点は、単にパッドへ近づいたことではなく、PyBullet上でロボット先端と対象パッドの接触を確認し、その時刻と音名を記録することです。演奏終了後、接触記録を基に各音程の波形を作ってWAVへ保存し、映像に合成します。間違ったパッドに触れたときは、実際に触れたパッドの音を鳴らします。接触がなければ音は発生しません。画面上の発光は色の変更であり、音は実物の打撃音ではありません。
-
-## 確認済みのこと
-
-macOS 26.5.2、Apple Silicon、Python 3.11.15、pybullet-arm64 3.2.8で検証しました。約78.6秒版は42打すべてで対象パッドとの接触を検出し、誤ったパッドへの接触は0件でした。音階テストでも8音すべてに接触しました。約59.4秒版も低解像度とフルHDで42/42、誤接触0件で、映像と音声を最後までデコードできました。いずれも未較正のシミュレーションであり、実機での性能・安全性を示すものではありません。Colab本番、実機、人による聴感、Final Cut Proは未検証です。
 
 旋律の参考楽譜：[MakingMusicFun.net](https://www.makingmusicfun.net/htm/f_printit_free_printable_sheet_music/twinkle-twinkle-little-star-beginner-piano)
